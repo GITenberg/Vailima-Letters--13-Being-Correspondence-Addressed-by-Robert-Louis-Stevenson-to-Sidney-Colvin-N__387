@@ -1,5 +1,8 @@
 _repo: Vailima-Letters--13-Being-Correspondence-Addressed-by-Robert-Louis-Stevenson-to-Sidney-Colvin-N__387
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Stevenson, Robert Louis
@@ -12,6 +15,8 @@ creator:
 description: Robert Louis Stevenson's experiences and observations in the South Seas,
   being an account of the Marquesas, Paumotur, and Gilbert Islands in the course of
   two cruises, on the yacht 'Casco' (1888) and the schooner 'Equator' (1889).
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/387#Vailima-Letters--13-Being-Correspondence-Addressed-by-Robert-Louis-Stevenson-to-Sidney-Colvin-N_
 gutenberg_issued: '1996-01-01'
 gutenberg_type: Text
 identifiers:
